@@ -1,9 +1,9 @@
-# CatatFilm — Bioskop Pribadi
+# Cinemaku — Bioskop Pribadi
 
 Aplikasi pencatatan film bioskop pribadi menggunakan PySide6 dan SQLite.
 
 ## Deskripsi
-CatatFilm memungkinkan pengguna mencatat, mengelola, dan mencari koleksi film yang pernah ditonton, lengkap dengan genre, sutradara, tahun rilis, rating, dan catatan pribadi.
+Cinemaku memungkinkan pengguna mencatat, mengelola, dan mencari koleksi film yang pernah ditonton, lengkap dengan genre, sutradara, tahun rilis, rating, dan catatan pribadi.
 
 ## Cara Menjalankan
 
@@ -30,5 +30,5 @@ bioskop/
 │   ├── main_window.py       # Jendela utama
 │   └── film_dialog.py       # Dialog tambah/edit
 └── style/
-    └── theme.qss            # Styling QSS
+    └── style.qss            # Styling QSS
 ```
